@@ -1,2 +1,2 @@
-# Character-Recognitionj
+# Character-Recognition
 Character Recognition Project using Python
